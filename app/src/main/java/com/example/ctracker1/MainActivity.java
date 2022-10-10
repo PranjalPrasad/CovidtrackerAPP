@@ -92,12 +92,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 
         countrycodepicker.setAutoDetectedCountry(true);
         countrycodepicker.getSelectedCountryName();
-       // countrycodepicker.setOnCountryChangeListener(new countrycodepicker.setOnCountryChangeListener()
-        //{
-          //  @Override
-//
-
-       // });
+       // countrycodepicker.setOnCountryChangeListener(new countrycodepicker.setOnCountryChangeListener(new  ));
 
 
 
